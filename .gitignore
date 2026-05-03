@@ -12,3 +12,4 @@ htmlcov/
 *.docx
 *.pdf
 wiki/
+.claude
